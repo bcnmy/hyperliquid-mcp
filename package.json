@@ -1,6 +1,6 @@
 {
   "name": "hyperliquid-mcp",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -18,7 +18,7 @@
     "url": "https://github.com/tomarsachin2271/hyperliquid-mcp/issues"
   },
   "homepage": "https://github.com/tomarsachin2271/hyperliquid-mcp#readme",
-  "description": "",
+  "description": "Enhanced MCP server providing complete access to all Hyperliquid public APIs - 44 tools covering perpetuals, spot trading, market data, user accounts, staking, and more.",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.8.0",
     "dotenv": "^16.4.7",
